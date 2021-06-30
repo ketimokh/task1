@@ -1,0 +1,49 @@
+.logo{
+    color: black;
+}
+.nav-item{
+    padding-right: 37px;
+}
+.position-box{
+    margin-bottom: 112px;
+}
+.position-box p{
+    font-size: 39px;
+    line-height: 80px;
+}
+.position-btn{
+    margin: 0 0 0 330px ;
+}
+.btn-width{
+    padding: 2px 40px 2px 0;
+}
+.section-top{
+    padding-top: 132px;
+}
+.main-title h2{
+    font-size: 48px;
+}
+.card-body h5{
+    font-size: 24px;
+
+}
+.card-body p{
+    font-size: 18px;
+    line-height: 30px;
+}
+.btn{
+    font-size: 15px;
+}
+.d-color{
+    background-color: whitesmoke;
+}
+.text-wrapper{
+   padding-left: 350px;
+    font-size: 36px;
+
+}
+.button-box{
+    width: 192px;
+    height: 52px;
+    padding-left: 20px;
+}
